@@ -88,5 +88,3 @@ B.Tech (Electronics and Telecommunication Engineering)
 
 
 ---
-
-⭐ If you found this project useful, don't forget to give it a Star!
